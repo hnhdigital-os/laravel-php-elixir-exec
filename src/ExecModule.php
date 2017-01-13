@@ -1,6 +1,6 @@
 <?php
 
-namespace Bluora\PhpElixir\Modules;
+namespace Bluora\PhpElixirExec;
 
 use Bluora\PhpElixir\AbstractModule;
 use Bluora\PhpElixir\ElixirConsoleCommand as Elixir;
